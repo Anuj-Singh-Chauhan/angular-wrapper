@@ -15,7 +15,7 @@ import { Component, ElementRef, OnInit, OnDestroy, ViewEncapsulation } from '@an
 // import * as ReactDOM from 'react-dom/client';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from '/../react-components/App'; // Adjust the path based on your structure
+import App from '../../react-components/App'; // Adjust the path based on your structure
 
 @Component({
   selector: 'app-react-wrapper',
